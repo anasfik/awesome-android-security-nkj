@@ -219,6 +219,7 @@
 * [JEB Decompiler](https://www.pnfsoftware.com/) : Powerful Integrated Analysis Tools
 * [IDA Pro](https://hex-rays.com/) : Powerful Integrated Analysis Tools
 * [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : [Online Service](https://mobsf.netking.xyz/) Integrated Analysis Tools
+* [FlutterGuard](https://github.com/anasfik/FlutterGuard) : Offline Android app that audits a released Flutter app or APK on-device — manifest policy, `libapp.so` strings, assets, dependencies and signing. MIT.
 * [Frida](https://github.com/frida/frida) : Dynamic Instrumentation Toolkit
 * [Apktool](https://github.com/iBotPeaches/Apktool) : APK Files Reverse Engineering
 * [Bytecode Viewer](https://bytecodeviewer.com/) : Java Reverse Engineering
